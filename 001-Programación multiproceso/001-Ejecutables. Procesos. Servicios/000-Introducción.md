@@ -1,2 +1,0 @@
-# Ejecutables. Procesos. Servicios
-
