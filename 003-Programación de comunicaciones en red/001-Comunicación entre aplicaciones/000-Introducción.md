@@ -1,2 +1,0 @@
-# Comunicación entre aplicaciones
-
