@@ -1,2 +1,0 @@
-# Sincronización entre procesos
-
